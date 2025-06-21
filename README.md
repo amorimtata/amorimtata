@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou a Thállyta!
 
 Atuo como desenvolvedora web, criando interfaces modernas, funcionais e bem feitas — **não só bonitinhas, mas que realmente resolvem problemas.**  
-Trabalho tanto no **frontend** com React, JavaScript e Bootstrap, quanto no **backend** com Node.js, desenvolvendo APIs e sistemas que automatizam tarefas e otimizam processos.
+Trabalho tanto no **frontend** com React, JavaScript e Bootstrap, quanto no **backend** com Python, desenvolvendo APIs e sistemas que automatizam tarefas e otimizam processos.
 
 Gosto de transformar fluxos manuais e bagunçados em soluções automatizadas e organizadas.  
 Se tem repetição, eu automatizo. Se tem API, eu integro. Se tem projeto, eu desenvolvo.
