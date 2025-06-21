@@ -1,13 +1,15 @@
 # 👋 Olá, eu sou a Thállyta!
 
-Atuo como desenvolvedora web, criando interfaces modernas, funcionais e bem feitas — **não só bonitinhas, mas que realmente resolvem problemas.**  
-Trabalho tanto no **frontend** com React, JavaScript e Bootstrap, quanto no **backend** com Python, desenvolvendo APIs e sistemas que automatizam tarefas e otimizam processos.
+Sou desenvolvedora web focada em criar soluções práticas que automatizam processos, integram APIs e tornam o dia a dia mais eficiente.
 
-Gosto de transformar fluxos manuais e bagunçados em soluções automatizadas e organizadas.  
-Se tem repetição, eu automatizo. Se tem API, eu integro. Se tem projeto, eu desenvolvo.
+---
 
-Estou sempre testando coisas novas, aprendendo, melhorando código e buscando a melhor solução para cada desafio 🚀
+## 🧰 Minhas Stacks Atuais:
 
+- 🖥️ Frontend: React, JavaScript, Bootstrap  
+- ⚙️ Backend: Node.js, Express  
+- 🔄 Integrações e APIs  
+- 🤖 Automação de Processos  
 
 ---
 
@@ -19,11 +21,9 @@ Estou sempre testando coisas novas, aprendendo, melhorando código e buscando a 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
 
 ---
 
@@ -38,12 +38,11 @@ Estou sempre testando coisas novas, aprendendo, melhorando código e buscando a 
 
 ## 🌱 Sobre mim:
 
-
-- 👩‍💻 Desenvolvimento Web (Frontend & Backend)
-- 🤖 Automação de processos e integração de APIs
-- 🔄 Otimização de fluxos manuais em soluções digitais
-- 🎯 Projetos recentes: sistemas web, bots automatizados, integrações API e backend Node.js
-- 💬 Sempre em busca de novos desafios e aprendizados
+- 👩‍💻 Desenvolvimento Web (Frontend & Backend)  
+- 🤖 Automação de processos e integração de APIs  
+- 🔄 Otimização de fluxos manuais em soluções digitais  
+- 🎯 Projetos recentes: sistemas web, bots automatizados, integrações API e backend Node.js  
+- 💬 Sempre em busca de novos desafios e aprendizados  
 
 ---
 
