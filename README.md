@@ -41,7 +41,7 @@ Sou desenvolvedora web focada em criar soluções práticas que automatizam proc
 - 👩‍💻 Desenvolvimento Web (Frontend & Backend)  
 - 🤖 Automação de processos e integração de APIs  
 - 🔄 Otimização de fluxos manuais em soluções digitais  
-- 🎯 Projetos recentes: sistemas web, bots automatizados, integrações API e backend Node.js  
+- 🎯 Projetos recentes: sistemas web, bots automatizados, integrações API e backend Python 
 - 💬 Sempre em busca de novos desafios e aprendizados  
 
 ---
