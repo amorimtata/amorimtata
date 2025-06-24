@@ -7,7 +7,7 @@ Sou desenvolvedora web focada em criar soluções práticas que automatizam proc
 ## 🧰 Minhas Stacks Atuais:
 
 - 🖥️ Frontend: React, JavaScript, Bootstrap  
-- ⚙️ Backend: Node.js, Express  
+- ⚙️ Backend: Python
 - 🔄 Integrações e APIs  
 - 🤖 Automação de Processos  
 
