@@ -1,33 +1,37 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,50:9D4EDD,100:C77DFF&height=180&section=header&text=&animation=fadeIn" alt="Cabeçalho em ondas" />
+
 <div align="center">
 
-# Thállyta Amorim
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2600&pause=900&color=9D4EDD&center=true&vCenter=true&repeat=true&width=720&height=70&lines=Ol%C3%A1%2C+eu+sou+Th%C3%A1llyta+Amorim+%F0%9F%91%8B;Full+Stack+Developer;RPA+%26+Automation;Project+Leadership" alt="Apresentação animada de Thállyta Amorim" />
 
-### Full Stack Developer · RPA & Automation · Project Leadership
+### Criando soluções que trabalham por pessoas — e não o contrário.
 
-Transformo processos complexos e tarefas repetitivas em soluções digitais eficientes, escaláveis e inteligentes.
+Transformo processos complexos e tarefas repetitivas em produtos digitais eficientes, escaláveis e inteligentes.
 
 [![GitHub](https://img.shields.io/badge/GitHub-amorimtata-181717?style=for-the-badge&logo=github)](https://github.com/amorimtata)
 [![E-mail](https://img.shields.io/badge/E--mail-Fale%20comigo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amorimtata7@gmail.com)
+![Visitas](https://komarev.com/ghpvc/?username=amorimtata&label=VISITAS&color=9D4EDD&style=for-the-badge)
 
 </div>
 
 ---
 
-## Sobre mim
+## `> whoami`
 
 ```javascript
-const thallyta = {
+const thallytaAmorim = {
   role: "Full Stack Developer",
   experience: "+3 anos",
   specialties: ["RPA", "Automação", "Web Scraping", "APIs"],
   strengths: ["Liderança técnica", "Gestão de projetos", "Visão de negócio"],
-  mission: "Criar tecnologia que simplifica processos e gera resultados"
+  mission: "Criar tecnologia que simplifica processos e gera resultados",
+  currentlyLearning: "Sempre alguma coisa nova 🚀"
 };
 ```
 
 Atuo no desenvolvimento de aplicações web, automações e integrações de sistemas. Tenho experiência liderando projetos de scraping e coleta de dados em larga escala, conectando necessidades de negócio, usuários e equipes técnicas.
 
-## O que eu entrego
+## Áreas de impacto
 
 <table>
   <tr>
@@ -52,7 +56,7 @@ Atuo no desenvolvimento de aplicações web, automações e integrações de sis
   </tr>
 </table>
 
-## Tech stack
+## Tecnologias que movem minhas ideias
 
 <div align="center">
 
@@ -71,7 +75,7 @@ Atuo no desenvolvimento de aplicações web, automações e integrações de sis
 
 </div>
 
-## Atualmente
+## No momento
 
 - Desenvolvendo aplicações, integrações e automações para processos fiscais e administrativos;
 - Liderando tecnicamente projetos de scraping com Python e JavaScript/Node.js;
@@ -87,6 +91,12 @@ Atuo no desenvolvimento de aplicações web, automações e integrações de sis
 
 </div>
 
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=amorimtata&bg_color=00000000&color=9D4EDD&line=C77DFF&point=FFFFFF&area=true&area_color=9D4EDD&hide_border=true" alt="Gráfico de contribuições de Thállyta Amorim" />
+
+</div>
+
 ---
 
 <div align="center">
@@ -98,3 +108,5 @@ Aberta a conexões, projetos e oportunidades em desenvolvimento, automação e t
 **[Entre em contato](mailto:amorimtata7@gmail.com)**
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C77DFF,50:9D4EDD,100:6A00F4&height=120&section=footer" alt="Rodapé em ondas" />
